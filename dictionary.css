@@ -1,0 +1,31 @@
+
+
+body {
+    background-color: #b89bbf;
+}
+
+
+.box {
+    background-color: white;
+}
+
+.search-box input  {
+    border: none;
+    outline: none;
+    border-bottom: 3px solid #b89bbf;
+}
+
+.search-box button  {
+ background-color: #b89bbf;
+}
+
+.word-example {
+    border-left: 5px solid #b89bbf;
+}
+
+.word button {
+    background-color: transparent;
+    color: #b89bbf;
+    border: none;
+    outline: none;
+}
